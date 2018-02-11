@@ -1,0 +1,9 @@
+<inventory>
+    <book year="2000">
+        <title>Snow Crash</title>
+        <author>Neal Stepherson</author>
+        <publisher>Spectra</publisher>
+        <isbn>0555505</isbn>
+        <price>14.95</price>
+    </book>
+</inventory>
